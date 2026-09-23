@@ -1,0 +1,13 @@
+{
+  "name": "مناحل شيخ الجبل للعسل الحضرمي الدوعني",
+  "short_name": "مناحل شيخ الجبل",
+  "description": "متجر مناحل شيخ الجبل للعسل الحضرمي الدوعني",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdf5",
+  "theme_color": "#d97706",
+  "orientation": "portrait-primary"
+}
